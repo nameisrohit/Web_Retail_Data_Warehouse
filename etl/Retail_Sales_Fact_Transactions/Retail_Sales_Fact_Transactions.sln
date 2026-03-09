@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Retail_Sales_Fact_Transactions", "Retail_Sales_Fact_Transactions\Retail_Sales_Fact_Transactions.dtproj", "{E9A0F26C-8B14-485E-B34A-B36A301DB31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A0F26C-8B14-485E-B34A-B36A301DB31A}.Development|Default.ActiveCfg = Development
+		{E9A0F26C-8B14-485E-B34A-B36A301DB31A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61531F9E-6577-4F10-90F2-0FB732CAB638}
+	EndGlobalSection
+EndGlobal
