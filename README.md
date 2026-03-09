@@ -1,1 +1,25 @@
-# data-warehouse-project
+# Web Retail Revenue Data Warehouse & BI Solution
+
+End-to-end data warehouse and BI project for online retail sales using SQL Server, SSIS, SSRS, and Tableau.
+
+## Features
+
+- Star-schema data warehouse (Fact_Transactions, Dim_Customer, Dim_Product, Dim_Store, Dim_Date) defined in `sql/Data_Storage_Schema.sql`.
+- SSIS ETL packages for customer, date, product, store, and transaction data (see `etl/` folders).
+- Tableau dashboard showing sales trends, product contribution, and customer/store segmentation.
+- SSRS-style tabular reports for tax by store/category and customer purchase summaries.
+
+## Datasets
+
+- Online retail sales dataset from Kaggle (for warehouse and Tableau).
+- AdventureWorks sales dataset from Kaggle (for additional SQL/CQL analysis).
+
+Raw data is not included; download from Kaggle and update your local connections.
+
+## Documentation
+
+See `docs/Data_Storage_Group_Report.pdf` for the full technical report.
+
+## Author
+
+- Rohit Yadav
