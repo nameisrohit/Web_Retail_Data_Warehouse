@@ -17,7 +17,7 @@ Raw data is not included; download from Kaggle and update your local connections
 
 ## Documentation
 
-See `docs/Data_Storage_Group_Report.pdf` for the full technical report.
+See `docs/Data_Storage_Report.docx` for the full technical report.
 
 ## Author
 
