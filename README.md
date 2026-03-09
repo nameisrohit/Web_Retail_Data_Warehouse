@@ -19,6 +19,10 @@ Raw data is not included; download from Kaggle and update your local connections
 
 See `docs/Data_Storage_Report.docx` for the full technical report.
 
+## Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8375c9f-95cf-47f6-865c-40387e97e91a" />
+
+
 ## Author
 
 - Rohit Yadav
